@@ -22,6 +22,9 @@ Selectivity is achieved through specific chemical derivatization:
 * **Nitrite**: Reacts with sulfanilamide and NED in acidic conditions to form a red-violet azo dye measured at **541 nm**.
 * **Nitrate**: Selectively reduced to nitrite using **hydrazine** with copper/zinc catalysts before undergoing the colorimetric reaction.
 
+![Photometric Analysis](https://github.com/user-attachments/assets/2092e973-8b35-4e69-8ad9-b257f91fb413) ![IMG_5600](https://github.com/user-attachments/assets/8b613868-45b7-454b-b919-d174a732fde7)
+
+
 #### 3. Direct UV-VIS Spectroscopy
 Standard solutions were analyzed between 190–300 nm to establish calibration functions according to the **Lambert-Beer Law**.
 
