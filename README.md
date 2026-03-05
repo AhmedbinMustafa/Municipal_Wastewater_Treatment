@@ -32,16 +32,11 @@ Below are demonstrations of the data processing workflow used to establish calib
 
 #### Nitrate Calibration Modeling
 
-
-https://github.com/user-attachments/assets/c27c6be2-30ab-41ce-9a8f-b506ba9cd52d
-
-
+https://github.com/user-attachments/assets/dc27d3d0-503f-48ce-8b0c-c0b06d654b07
 
 #### UV-VIS Spectra Plotting
 
-
-https://github.com/user-attachments/assets/fcb3666f-76d4-4a68-9368-d81e17db9a55
-
+https://github.com/user-attachments/assets/5465e73c-c3e0-4104-a252-cbd7dc0361fd
 
 
 ### Mathematical Deconvolution of Mixed Species
